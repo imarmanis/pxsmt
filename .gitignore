@@ -1,0 +1,7 @@
+pxsmt
+
+tags
+*.swp
+*.o
+
+.vscode/
